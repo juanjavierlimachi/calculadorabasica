@@ -1,0 +1,4 @@
+c:\users\intel\documents\visual studio 2010\Projects\pagoEventual\pagoEventual\bin\Debug\pagoEventual.exe
+c:\users\intel\documents\visual studio 2010\Projects\pagoEventual\pagoEventual\bin\Debug\pagoEventual.pdb
+c:\users\intel\documents\visual studio 2010\Projects\pagoEventual\pagoEventual\obj\x86\Debug\pagoEventual.exe
+c:\users\intel\documents\visual studio 2010\Projects\pagoEventual\pagoEventual\obj\x86\Debug\pagoEventual.pdb
